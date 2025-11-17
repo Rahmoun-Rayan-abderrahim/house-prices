@@ -96,6 +96,10 @@ python -m venv .venv
 
 .venv\Scripts\Activate.ps1
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7bbb86e1194d0df61f4b948450267aa837255132
 # Linux/Mac:
 
 source .venv/bin/activate
