@@ -84,7 +84,7 @@ et l'entraînement du modèle avec évaluation via le RMSE.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/house-prices.git
+git clone https://github.com/Rahmoun-Rayan-abderrahim/house-prices.git
 cd house-prices
 Create virtual environment and install dependencies:
 
